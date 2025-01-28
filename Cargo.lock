@@ -4,4 +4,4 @@ version = 4
 
 [[package]]
 name = "cargo-release-commit-message-issue"
-version = "0.1.0"
+version = "1.0.0"
