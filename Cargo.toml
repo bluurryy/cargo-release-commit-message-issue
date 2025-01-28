@@ -2,6 +2,9 @@
 name = "cargo-release-commit-message-issue"
 version = "5.0.0"
 edition = "2024"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/bluurryy/cargo-release-commit-message-issue"
+description = "testing"
 
 [package.metadata.release]
 pre-release-commit-message = "My Release Message: {{version}}"
