@@ -7,3 +7,4 @@ edition = "2024"
 pre-release-commit-message = "My Release Message: {{version}}"
 
 [workspace]
+members = ["crates/whatever"]
