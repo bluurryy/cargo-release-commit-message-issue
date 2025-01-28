@@ -5,3 +5,5 @@ edition = "2024"
 
 [package.metadata.release]
 pre-release-commit-message = "My Release Message: {{version}}"
+
+[workspace]
